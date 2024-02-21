@@ -1,3 +1,30 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: fuchsia;
+}
+
+.header {
+    margin: 0px 15%;
+    text-align: center;
+    font-size: 56px;
+    color: lavender;
+
+    background-color: violet;
+
+    border-radius: 48px;
+}
+
+.header h1 {
+    padding: 20px;
+}
+
+.content-desc {
+    border: solid lavender 4px;
+    border-radius: 12px;
+    background-color: violet;
+}
+
+.content-desc p {
+    color: white;
+    padding: 0px 16px;
 }

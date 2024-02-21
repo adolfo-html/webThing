@@ -1,7 +1,12 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: fuchsia;
+    background-color: blueviolet;
 }
+/* 
+I'm going to test how to make a branch and merge it with VSCode.
+This is gonna be so cool!
+The branch will literally just be changing the background color.
+*/
 
 .header {
     margin: 0px 15%;

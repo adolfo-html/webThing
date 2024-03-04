@@ -33,3 +33,43 @@ The branch will literally just be changing the background color.
     color: white;
     padding: 0px 16px;
 }
+
+.post {
+    margin: 24px 0px; 
+
+    color: white;
+
+    border: solid lavender 4px;
+    border-radius: 12px;
+
+    background-color: violet;
+}
+
+/* Had  to individually do the padding for these two, because the top right post-desc box needed to have a simpler margin. */
+.post h2 {
+    padding: 0px 16px
+}
+
+.post p {
+    padding: 0px 24px;
+}
+
+/* Box for the header in the top right */
+/* I want this to look like it's part of the parent div border, and it should always be in the top right. */ 
+
+/* I used position: relative here without really knowing what it did. But I'm pretty sure the default position, static, gives any HTML object volume.
+So I'm glad it worked out here. Relative position lets me put the box wherever I want with float! I need help on float too. */
+.post-desc
+{
+    margin: -4px;
+    position: relative;
+
+    float: right;
+
+    border: solid lavender 4px;
+    border-radius: 12px;
+}
+
+.post-desc h3 {
+    padding: 0px 12px;
+}

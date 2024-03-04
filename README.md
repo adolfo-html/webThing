@@ -1,16 +1,5 @@
 # Official Website Project
 
-Hi people, this is a website I plan on working on frequently.
+Ok, I'm not sure what happened here... I wanted to push the commits to my original repo to the master branch. But I guess since the folder on this computer was named differently, I had to upload it like this? That can't be it right? I'll figure it out later cause I have homework to do.
 
-Goals I want to achieve from doing this:
-
-- Learn to complete projects
-- Learn how to make a fully functional website (even if it's not that useful)
-- Learn how to authenticate myself locally in Git in my directories so VSCode can stop asking me to "make sure you've authenticated your user.email and stuff"
-- Make something cool
-
-Another thing... I know it's weird, but I really want to be able to complete giant programming projects by myself. ESPECIALLY websites, because it's "basic", but challenging if you want to put effort into it, I think. Anyway, you're probably thinking "why would you make all these repositories public if you're not gonna collab with people". Well that's because I have goals for myself. Is it wrong to want to be a person with expertise you can show? It's less about flexing and more about proving to myself that I can do it. So there's a little bit about me.
-
-# Finally
-
-Ok, turns out you need to authenticate BOTH user.name and user.email in the terminal. So now I can click the little check mark! Yay! Chipi Chipi Chapa Chapa
+The class I'm doing homework for has the same professor that teaches Operating Systems. This old guy needs to retire already. You guys ever have teachers that make things more complicated than they have to be? This guy CANNOT teach a class properly, for this generation at least. He's the kind of guy to write that two answer choices on a quiz were "arbitrarily transposed" instead of "randomly switched". I am convinced he has a quota of students he needs to fail every semester like how cops need to write tickets. I would really really like to tell everybody on this platform his name so that they can avoid this dude at all costs, but that would feel wrong and I might get in trouble. Once I learn how to hack and secretly get people's info without permission, THEN I'll be able to expose people like him. I took a computer science ethics course and passed, by the way.

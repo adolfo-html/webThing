@@ -2,4 +2,8 @@
 
 Ok, I'm not sure what happened here... I wanted to push the commits to my original repo to the master branch. But I guess since the folder on this computer was named differently, I had to upload it like this? That can't be it right? I'll figure it out later cause I have homework to do.
 
-The class I'm doing homework for has the same professor that teaches Operating Systems. This old guy needs to retire already. You guys ever have teachers that make things more complicated than they have to be? This guy CANNOT teach a class properly, for this generation at least. He's the kind of guy to write that two answer choices on a quiz were "arbitrarily transposed" instead of "randomly switched". I am convinced he has a quota of students he needs to fail every semester like how cops need to write tickets. I would really really like to tell everybody on this platform his name so that they can avoid this dude at all costs, but that would feel wrong and I might get in trouble. Once I learn how to hack and secretly get people's info without permission, THEN I'll be able to expose people like him. I took a computer science ethics course and passed, by the way.
+## Short update
+
+I've completed my classes. Now I can focus on my website. I want it to look nice, and I know how to style a page, but I don't know exactly what "nice" looks like. So I'm going to play around with CSS for a bit... then see what happens. Later, I'll focus on JavaScript.
+
+My only problem with CSS is all the positioning stuff. If I wanted to make a website look like a newspaper with all its columns then I'd have to take extensive notes on what I do exactly.
